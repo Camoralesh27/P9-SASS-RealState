@@ -27,7 +27,7 @@
 
     &__imagen {
         aspect-ratio: 10 / 6;   /* medida fija: rem; medida variable: padding con % */ 
-        background-size: cover;
+        background-size: auto 150%;
 
         position: relative;
     }
